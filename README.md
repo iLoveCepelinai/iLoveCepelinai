@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iLoveCepelinai (Matas Amšiejus)
+- 👀 I’m interested in data science, AI, autosport, beekeeping
+- 🌱 I’m currently learning Data Science in Vilnius University (7th semester)
+- 📫 You can email to matas.amsiejus@gmail.com or reach me on FB, LinkedIn.
